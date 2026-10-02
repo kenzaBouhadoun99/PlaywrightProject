@@ -1,0 +1,30 @@
+{
+  "chercheur": {
+    "email": "test.chercheur@example.com",
+    "password": "Test1234!Test",
+    "civilite": "M",
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "nationalite": "Algerienne",
+    "codePostal": "75001",
+    "ville": "Paris",
+    "telephone": "0612345678",
+    "domaine": "Informatique",
+    "niveauEtudes": "Doctorat"
+  },
+
+  "institutionnel": {
+    "email": "test.institution@example.com",
+    "password": "Test1234!Test",
+    "civilite": "Mme",
+    "nom": "Martin",
+    "prenom": "Sophie",
+    "nationalite": "France",
+    "codePostal": "75015",
+    "ville": "Paris",
+    "telephone": "0623456789",
+    "fonction": "Responsable",
+    "typeOrganisme": "Université",
+    "nomOrganisme": "Université de Paris"
+  }
+}
